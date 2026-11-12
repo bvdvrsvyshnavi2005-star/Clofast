@@ -1,0 +1,6 @@
+{
+  "name": "Clofast 3D - Enterprise CRM & Integration Nexus",
+  "description": "Interactive 3D CRM connection and real-time enterprise data analysis platform for Clofast, featuring live pipeline analytics and connector hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
